@@ -5,7 +5,7 @@
 ---
 🧑‍💻 Sou um aspirante a Analista de Dados / Dev Full Stack, confesso que não tem muito a ver por aqui <b> AINDA </b>, mas se levarmos em consideração o meu imenso empenho em adquirir novos conhecimentos, aprimorando minhas Skills no geral, diria que não irá demorar muito para verem algo a mais por aqui, prometo galgar cada vez mais conhecimento a ponto de poder deixar minhas marca no mundo.
 
-Adoro compartilhar meu conhecimento com outras pessoas, e é exatamente o que pretendo fazer por aqui, varios projetos na minha cabeça que virão para cá. 
+Adoro compartilhar meu conhecimento com outras pessoas, e é exatamente o que pretendo fazer por aqui, varios projetos na minha cabeça que virão para cá. <br>
 Quando não estou estudando, você pode me encontrar em algum lugar sentado lendo meus livros e passando um tempo de qualidade com minha família.
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
