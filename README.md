@@ -13,7 +13,7 @@ Quando não estou estudando, você pode me encontrar em algum lugar sentado lend
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renatodsnunes/)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/renato_diego/)
 
 ## Habilidades
 ![MySQL](https://img.shields.io/badge/mysql-fff?style=for-the-badge&logo=mysql)
